@@ -11,7 +11,7 @@
 ### 🚀 Classify Twitter tweets as Positive, Negative, or Neutral
 ### using Text Embeddings + Machine Learning — No API Key Needed!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vKUNfC3dJnj6KEkxv2rPUlyo7wLUojCl?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PfYEVhVdcRzOI9Ehlj451zardKL_clQF?usp=sharing)
 
 </div>
 
@@ -111,7 +111,7 @@ Social media platforms generate **millions of posts daily**, making manual senti
 
 > ⚡ Run cells **one by one from top to bottom** in Google Colab
 >
-> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vKUNfC3dJnj6KEkxv2rPUlyo7wLUojCl?usp=sharing)
+> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PfYEVhVdcRzOI9Ehlj451zardKL_clQF?usp=sharing)
 
 ---
 
@@ -791,7 +791,7 @@ The 384-dimensional embedding space is nearly linearly separable, making the sim
 
 | Resource | Link |
 |---|---|
-| 📓 Google Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vKUNfC3dJnj6KEkxv2rPUlyo7wLUojCl?usp=sharing) |
+| 📓 Google Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PfYEVhVdcRzOI9Ehlj451zardKL_clQF?usp=sharing) |
 | 📊 Dataset | [Download CSV](https://nkb-backend-ccbp-media-static.s3-ap-south-1.amazonaws.com/ccbp_beta/media/content_loading/uploads/070be49c-5f5d-4030-bedc-53fc7582a602_Tweets_1.csv) |
 | 🌐 Portfolio | [charan-me.vercel.app](https://charan-me.vercel.app) |
 | 💼 GitHub | [@bonamukkala-bot](https://github.com/bonamukkala-bot) |
